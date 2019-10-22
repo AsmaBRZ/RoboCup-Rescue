@@ -1,0 +1,13 @@
+Choix d'environnement:
+	ville
+	scénario
+	categorie d'agent
+
+ADF --> RL (simplification : considérer que tous les agents partagent la meme fonction Q)
+
+Communication à courte distance ( peu de communication )
+
+Score: montrer une amélioration significative des performances sur 1 ou plusieurs scnéarios (idéaliement 2 ou 3)
+ 	- Pompiers : taux de batiments détruits, civils sauvés...etc
+
+Demo présentation sur machine + rapport final (3-5 pages: courbes de score, comparaison par rapport avec le cas initial et les agents par défaut)
